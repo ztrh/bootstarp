@@ -1,0 +1,44 @@
+@media (min-width:320px) and (max-width: 991px){
+    #header-mdl ul li a{
+        font-size: 22px;
+        color: var(--gray-scale-gray-–-800);
+    }
+    #header-mdl ul li{
+        padding: 0 7px;
+        border-right: 1px solid var(--gray-scale-gray-–-200);
+    }
+
+
+    /* HERO SECTION */
+    #hero .bannerSmall .banner{
+        margin-top: 24px;
+    }
+    /* HERO SECTION ENDS */
+    /*greenbox*/
+    #greenbox {
+        height: auto;
+    }
+    /*greenbox*/
+    #lower-hero h2{
+        font-size:20px;
+    }
+    #calender .cart{
+        margin-bottom: 8px;
+    }
+    #client .card{
+        margin-left: 70px;
+    }
+    #client h3{
+        text-align: center;
+    }
+
+    #client .card{
+        margin-bottom: 7px;
+        left: -23px;
+    width: 411px;
+    }
+    #client .review .p2 {
+        font-size: 15px;
+    }
+
+}
